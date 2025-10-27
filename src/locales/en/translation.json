@@ -1,0 +1,22 @@
+{
+  "hero_title": "Data & Business AI Automation Consultant",
+  "hero_description": "Building custom AI solutions that solve real business problems — no hype, no complexity, just measurable impact. Handling everything from discovery to deployment.",
+  "primaryCTA": "Projects →",
+  "secondaryCTA": "Ready to Innovate? Let's Connect →",
+
+  "services_title": "Services",
+  "services": {
+    "ai_consulting": "AI Consulting & Strategy",
+    "custom_ml": "Custom ML Solutions",
+    "automation": "AI Integration – Automate with AI"
+  },
+
+  "projects_title": "Projects & Case Studies",
+  "project_featured": {
+    "title": "Real-Time Stock Market Analysis",
+    "desc": "Live analytics dashboard with prediction models and visualization."
+  },
+  "coming_soon_title": "Coming Soon",
+  "coming_soon_desc": "Innovative AI solution in development."
+}
+

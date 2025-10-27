@@ -1,0 +1,1 @@
+import BusinessLandingPage from './components/BusinessLandingPage.jsx';export default function App(){return <BusinessLandingPage/>;}

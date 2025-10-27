@@ -1,0 +1,27 @@
+{
+  "hero_title": "Consultor de Dados e Automação de Negócios com IA",
+  "hero_description": "Crio soluções personalizadas de Inteligência Artificial que resolvem problemas reais de negócios — sem exageros, sem complexidade, apenas com impacto mensurável. Cuidando de tudo, desde a descoberta até a implantação.",
+  "primaryCTA": "Projetos →",
+  "secondaryCTA": "Pronto para Inovar? Vamos Conversar →",
+
+  "services_title": "Serviços",
+  "services": {
+    "ai_consulting": "Consultoria e Estratégia em IA",
+    "custom_ml": "Soluções de Machine Learning Sob Medida",
+    "automation": "Integração com IA — Automação via IA"
+  },
+  "services_desc": "Consultoria, modelos de Machine Learning sob medida, integrações de automação e implantação em produção.",
+
+  "projects_title": "Projetos e Estudos de Caso",
+  "project_featured": {
+    "title": "Análise de Mercado em Tempo Real",
+    "desc": "Dashboard interativo com modelos preditivos e visualizações dinâmicas."
+  },
+  "view_project": "Projeto →",
+  "coming_soon": "Em Breve",
+  "coming_soon_title": "Em Breve",
+  "coming_soon_desc": "Solução inovadora de IA em desenvolvimento.",
+
+  "footer": "© {{year}} Armando Saboia. Todos os direitos reservados."
+}
+
