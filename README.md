@@ -6,7 +6,7 @@ Multilingual (EN/PT) and ready for deployment on **Vercel** or **Netlify**.
 ---
 
 ## 🌍 Live Demo
-👉 Coming soon on [Vercel](https://vercel.com)
+👉 https://armandosaboia.vercel.app/
 
 ---
 
@@ -88,6 +88,4 @@ LinkedIn: Armando Saboia
 Email: armando.saboia.tech@gmail.com
 
 © 2025 Armando Saboia — All rights reserved.
-
-# landing_page
 
